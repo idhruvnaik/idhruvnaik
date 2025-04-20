@@ -1,7 +1,10 @@
 # 👋 Hi, I'm Dhruv Naik! 
-### 💻 Ruby on Rails Developer | 🧠 Backend Engineer | 🚀 Open Source Enthusiast
+### 🧠 Software Engineer
 
-I'm a passionate developer with 5+ years of experience in building web applications with Ruby on Rails, Node.js, and AWS. I love crafting APIs, automating workflows, and working on meaningful products.
+Results-driven Software Engineer with 5+ years of professional experience specialising in Ruby on Rails, Node Js, AWS. Proven expertise
+in developing and maintaining scalable, high-performance web applications used by 40,000+ active users. Skilled in
+managing database-intensive systems, including setting up Foreign Data Wrappers (FDW) for seamless cross-database
+integration on Amazon RDS without altering application logic.
 
 ---
 
@@ -18,28 +21,26 @@ I'm a passionate developer with 5+ years of experience in building web applicati
 
 ## 📌 Featured Projects
 
-- 🔐 [Stock Price Execution System](https://github.com/your-username/stock-executor) – High-performance stock order system using WebSockets & Redis
-- 📈 [Angel One Smart API Integration](https://github.com/your-username/angelone-smartapi) – Realtime trading integration in Node.js
-- 🧹 [Municipality Sanitation Dashboard](https://github.com/your-username/clean-city) – Waste management tracker built with Rails
+- [Stock Price Execution System](https://github.com/idhruvnaik/stock-market-app) – High-performance stock order system using WebSockets & NodeJs
+- [Smart Kitchen](https://github.com/idhruvnaik/food-formula) – Online smark kitchen
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=idhruvnaik&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idhruvnaik&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=idhruvnaik&show_icons=true&theme=radical" alt="GitHub Stats" style="margin-right: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idhruvnaik&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ---
 
 ## 🏷️ Tags
-`#RubyOnRails` `#Backend` `#APIs` `#FullStack` `#AWS` `#CleanCode` `#RemoteFirst`
+`#RubyOnRails` `#Backend` `#APIs` `#FullStack` `#AWS` `#CleanCode` `#NodeJs` `#Third Party Integrations` `#psql`
 
 ---
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=githubpages&logoColor=white)](https://your-username.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-naik-08427b159/)
 ---
